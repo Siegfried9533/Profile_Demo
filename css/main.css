@@ -160,3 +160,11 @@ header {
   border: 5px solid #0077b6;
   box-shadow: 0 8px 20px rgba(0,0,0,0.2);
 }
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 1rem;
+  text-align: left;
+}
